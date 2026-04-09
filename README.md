@@ -25,7 +25,4 @@ Key Findings:
 - Peak Performance: February saw a significant spike in revenue for "Regular" customer segments.
 - Regional Insights: South India (Hyderabad/Chennai) shows higher sales volume compared to North India.
 
-Tech Stack:
--Power BI: Data Visualization & DAX
--Excel/CSV: Raw Data Source
--Power Query: Data Cleaning & Transformation
+Tech Stack: Power BI: Data Visualization & DAX | Excel/CSV: Raw Data Source | Power Query: Data Cleaning & Transformation
